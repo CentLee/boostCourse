@@ -8,4 +8,4 @@ PJT 2 - 회원 가입 화면 구성 학습내용
 - viewDidLoad 와 viewWillLayoutSubviews 의 성능 차이점 공부
 
 PJT 3 - 기상정보 어플리케이션
-- Codable = Codable 사용 시 codingkey를 사용하면 json의 스네이크 케이스와 원하느 변수에 대해서 매핑 가능
+- Codable = Codable 사용 시 codingkey를 사용하면 json의 스네이크 케이스와 원하는 변수에 대해서 매핑 가능
