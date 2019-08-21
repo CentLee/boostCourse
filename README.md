@@ -14,3 +14,6 @@ PJT 4 - 사진관리 어플리케이션
 - PHPhotoLibrary.shared().register(self) - 갤러리의 변화르 감지하여 데이터를 최신화 가능 ( 삭제 , 즐겨찾기 등)
 - navigationBar.prefersLargeTitles - 기존의 네비게이션보다 큰 타이틀 사용 가능 스크롤 시 자동으로 이전 기본 모델로 유연 동작
 - OperationQueue - 연산 횟수를 제한 할 수 있고 연산에 특화 된 DispatchQueue와는 다른 큐 
+
+PJT 5 - 영화정보 어플리케이션
+- contentVerticalAlignment - TextField의 텍스트 상하 위치르 지정할 수 있는 프로퍼티
