@@ -17,3 +17,4 @@ PJT 4 - 사진관리 어플리케이션
 
 PJT 5 - 영화정보 어플리케이션
 - contentVerticalAlignment - TextField의 텍스트 상하 위치르 지정할 수 있는 프로퍼티
+- Notificataion UserInfo - userinfo를 통해서 데이터 전달 받아서 활요 가능
